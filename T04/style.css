@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+    color: mediumblue;
+    margin:40px;
+
+    #wynik{
+        border:4px cornflowerblue;
+    }
+}
